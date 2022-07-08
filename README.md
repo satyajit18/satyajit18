@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @satyajit18
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning pythin, machine learning, time series analysis,Mysql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... satyajitdesai182gmail.com
 
 <!---
 satyajit18/satyajit18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
